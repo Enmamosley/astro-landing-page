@@ -11,7 +11,6 @@ export default defineConfig({
     }
   },
   experimental: {
-    assets: true,
     fonts: [{
       provider: "local",
       name: "InterLocal",
